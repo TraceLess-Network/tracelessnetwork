@@ -1,51 +1,39 @@
 # TraceLess Network
 
-> **Redefining Privacy. Powering the Next Generation of Anonymous Blockchain.**
+> **Privacy Reimagined. TraceLess, Beyond the Chain.**
 
-**TraceLess Network (TRL)** is an advanced privacy protocol designed to restore anonymity in digital finance.  
-Built from the ground up as a **Trusted Relay Layer**, TRL provides zero-trace transaction routing, adaptive encryption, and decentralized confidentiality — empowering a new era of secure, untraceable value exchange.
+TraceLess Network is the creator of **TRL (Trusted Relay Layer)** —  
+a next-generation privacy infrastructure designed for **zero-trace transactions**  
+and **decentralized confidentiality** in digital value exchange.
 
-Our mission is simple yet bold:  
-to make privacy **a fundamental right** for every blockchain user — not an optional feature.
-
----
-
-### 🔐 Core Principles
-
-- **Zero Trace Architecture** — Every transaction is shielded, leaving no observable metadata on-chain.  
-- **Adaptive Encryption** — Dynamic cryptographic layers evolve with each relay to prevent correlation attacks.  
-- **Trustless Network** — No central validator, no single point of failure, fully decentralized consensus.  
-- **Scalable Privacy** — Built to integrate seamlessly with existing EVM ecosystems and private smart contracts.  
-- **Open Innovation** — 100% open-source protocol driven by the community and contributors worldwide.  
+We believe privacy is not a privilege — it’s a right.  
+TRL redefines anonymity using adaptive relay encryption, multi-layer obfuscation,  
+and trustless validation — enabling secure transactions beyond the public chain.
 
 ---
 
-### 🧠 Ecosystem Overview
+### 🔒 Core Principles
+- **Zero Visibility:** Transactions leave no traceable footprint.
+- **Trustless Network:** No central authority, no single point of failure.
+- **Encrypted Relays:** Every node operates with cryptographic isolation.
+- **Open-Source Privacy:** Transparency in design, privacy in execution.
 
+---
+
+### ⚙️ Active Repositories
 | Project | Description |
 |----------|--------------|
-| 🧬 **`trl-core`** | Core relay protocol, node architecture, and privacy engine |
-| 💼 **`trl-wallet`** | Privacy-first wallet enabling zero-trace transactions |
-| 🧩 **`trl-sdk`** | Developer SDK for integration and privacy layer extension |
-| 📖 **`docs`** | Whitepaper, technical research, and implementation guides |
+| 🧬 `trl-core` | Core node protocol and relay engine |
+| 💼 `trl-wallet` | Privacy-first wallet for TRL ecosystem |
+| 🧠 `trl-sdk` | Developer SDK and integration layer |
+| 🌐 `trl-explorer` | Shielded blockchain explorer (zero-trace) |
 
 ---
 
-### 🌍 Our Vision
+### 🌍 Join the Movement
+- 🌐 Website: [tracelessnetwork.com](https://tracelessnetwork.com)
+- 🐦 Twitter (X): [@TraceLessNetwork](https://twitter.com/TraceLessNetwork)
+- 💬 Telegram: [t.me/TraceLessNetwork](https://t.me/TraceLessNetwork)
+- 📰 Medium: [@tracelessnetwork](https://medium.com/@tracelessnetwork)
 
-> A world where blockchain privacy is standard —  
-> where freedom, anonymity, and trust coexist without compromise.
-
-We envision a decentralized network that protects financial identity, empowers developers,  
-and enables enterprises to build on privacy-first infrastructure — scalable, secure, and unstoppable.
-
----
-
-### 🤝 Join the Revolution
-
-- 🌐 Website: [tracelessnetwork.com](https://tracelessnetwork.com)  
-- 🐦 Twitter: [@TraceLessNetwork](https://twitter.com/TraceLessNetwork)  
-- 💬 Telegram: [t.me/TraceLessNetwork](https://t.me/TraceLessNetwork)  
-- 🧾 Medium: [@tracelessnetwork](https://medium.com/@tracelessnetwork)
-
-> **TraceLess Network — Privacy Reimagined. Beyond the Chain.**
+> Let’s build the future of privacy — together.
