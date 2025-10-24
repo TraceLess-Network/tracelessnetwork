@@ -10,7 +10,7 @@ Built for scalability, interoperability, and trustless privacy — TRL is where 
 
 ---
 
-### 🧠 The Trusted Relay Layer (TRL)
+###  The Trusted Relay Layer (TRL)
 A new foundation for Web3 privacy — combining:
 - **Zero-Trace Transactions** – every transfer is unlinkable and invisible.  
 - **Adaptive Encryption** – multi-layer protection across nodes.  
@@ -18,14 +18,14 @@ A new foundation for Web3 privacy — combining:
 
 ---
 
-### 💡 Our Vision
+###  Our Vision
 To build a **borderless privacy layer** —  
 a network where users control their identity, data, and destiny.  
 Privacy is not a luxury. It’s the default.
 
 ---
 
-### ⚙️ Development Scope
+###  Development Scope
 | Component | Description |
 |------------|-------------|
 | **TRL Core** | The backbone relay protocol enabling zero-trace communication. |
@@ -34,7 +34,7 @@ Privacy is not a luxury. It’s the default.
 
 ---
 
-### 🌍 The Movement
+###  The Movement
 TraceLess Network is not just technology — it’s a shift in digital freedom.  
 We are redefining how privacy is built, shared, and trusted.
 
@@ -43,6 +43,6 @@ We are redefining how privacy is built, shared, and trusted.
 **TraceLess Network (TRL)**  
 > Empowering the invisible economy.  
 
-🔗 [Website](https://tracelessnetwork.com)  
-🐦 [Twitter](https://twitter.com/TraceLessNetwork)  
-💬 [Telegram](https://t.me/TraceLessNetwork)
+ [Website](https://tracelessnetwork.com)  
+ [Twitter](https://twitter.com/TraceLessNetwork)  
+ [Telegram](https://t.me/TraceLessNetwork)
