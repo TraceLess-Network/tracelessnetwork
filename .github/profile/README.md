@@ -8,7 +8,7 @@ Untraceable. Unstoppable. Unbounded.
 
 ---
 
-### 🔐 Core Principles
+###  Core Principles
 - Privacy as the default  
 - Decentralization as the rule  
 - Freedom as the foundation  
