@@ -1,39 +1,28 @@
-# TraceLess Network
+# TraceLess Network (TRL)
 
-> **Privacy Reimagined. TraceLess, Beyond the Chain.**
+> **Privacy Reimagined. Beyond the Chain.**
 
-TraceLess Network is the creator of **TRL (Trusted Relay Layer)** —  
-a next-generation privacy infrastructure designed for **zero-trace transactions**  
-and **decentralized confidentiality** in digital value exchange.
+TraceLess Network (TRL) is developing the **Trusted Relay Layer** —  
+a next-generation privacy protocol for secure, anonymous, and untraceable transactions.
 
-We believe privacy is not a privilege — it’s a right.  
-TRL redefines anonymity using adaptive relay encryption, multi-layer obfuscation,  
-and trustless validation — enabling secure transactions beyond the public chain.
+Our mission is to make blockchain privacy **simple, scalable, and universal** —  
+bringing true anonymity without sacrificing performance.
 
 ---
 
-### 🔒 Core Principles
-- **Zero Visibility:** Transactions leave no traceable footprint.
-- **Trustless Network:** No central authority, no single point of failure.
-- **Encrypted Relays:** Every node operates with cryptographic isolation.
-- **Open-Source Privacy:** Transparency in design, privacy in execution.
+### 🔹 Why TraceLess?
+- **Untraceable Transactions** — zero-trace relay system.
+- **Cross-Chain Ready** — works across EVM-compatible networks.
+- **Built for Global Privacy** — open and decentralized by design.
 
 ---
 
-### ⚙️ Active Repositories
-| Project | Description |
-|----------|--------------|
-| 🧬 `trl-core` | Core node protocol and relay engine |
-| 💼 `trl-wallet` | Privacy-first wallet for TRL ecosystem |
-| 🧠 `trl-sdk` | Developer SDK and integration layer |
-| 🌐 `trl-explorer` | Shielded blockchain explorer (zero-trace) |
+### 🚀 Current Focus
+- Core protocol R&D  
+- Privacy relay node testing  
+- Early integration with third-party dApps  
 
 ---
 
-### 🌍 Join the Movement
-- 🌐 Website: [tracelessnetwork.com](https://tracelessnetwork.com)
-- 🐦 Twitter (X): [@TraceLessNetwork](https://twitter.com/TraceLessNetwork)
-- 💬 Telegram: [t.me/TraceLessNetwork](https://t.me/TraceLessNetwork)
-- 📰 Medium: [@tracelessnetwork](https://medium.com/@tracelessnetwork)
-
-> Let’s build the future of privacy — together.
+**TraceLess Network** — Privacy without compromise.  
+🔗 [Website](https://tracelessnetwork.com) • 💬 [Telegram](https://t.me/TraceLessNetwork) • 🐦 [Twitter](https://twitter.com/TraceLessNetwork)
