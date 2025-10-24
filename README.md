@@ -2,27 +2,47 @@
 
 > **Privacy Reimagined. Beyond the Chain.**
 
-TraceLess Network (TRL) is developing the **Trusted Relay Layer** —  
-a next-generation privacy protocol for secure, anonymous, and untraceable transactions.
+TraceLess Network is creating the **Trusted Relay Layer (TRL)** —  
+a universal privacy infrastructure for the next generation of decentralized systems.
 
-Our mission is to make blockchain privacy **simple, scalable, and universal** —  
-bringing true anonymity without sacrificing performance.
-
----
-
-### 🔹 Why TraceLess?
-- **Untraceable Transactions** — zero-trace relay system.
-- **Cross-Chain Ready** — works across EVM-compatible networks.
-- **Built for Global Privacy** — open and decentralized by design.
+In a world where every transaction is watched, TraceLess brings **freedom, security, and invisibility** back to the blockchain.  
+Built for scalability, interoperability, and trustless privacy — TRL is where the chain ends and **true anonymity begins**.
 
 ---
 
-### 🚀 Current Focus
-- Core protocol R&D  
-- Privacy relay node testing  
-- Early integration with third-party dApps  
+### 🧠 The Trusted Relay Layer (TRL)
+A new foundation for Web3 privacy — combining:
+- **Zero-Trace Transactions** – every transfer is unlinkable and invisible.  
+- **Adaptive Encryption** – multi-layer protection across nodes.  
+- **Cross-Network Compatibility** – seamlessly bridges EVM & non-EVM chains.  
 
 ---
 
-**TraceLess Network** — Privacy without compromise.  
-🔗 [Website](https://tracelessnetwork.com) • 💬 [Telegram](https://t.me/TraceLessNetwork) • 🐦 [Twitter](https://twitter.com/TraceLessNetwork)
+### 💡 Our Vision
+To build a **borderless privacy layer** —  
+a network where users control their identity, data, and destiny.  
+Privacy is not a luxury. It’s the default.
+
+---
+
+### ⚙️ Development Scope
+| Component | Description |
+|------------|-------------|
+| **TRL Core** | The backbone relay protocol enabling zero-trace communication. |
+| **TRL Wallet** | Private, secure wallet for anonymous asset transfers. |
+| **TRL SDK** | Developer toolkit for integrating TRL privacy into dApps. |
+
+---
+
+### 🌍 The Movement
+TraceLess Network is not just technology — it’s a shift in digital freedom.  
+We are redefining how privacy is built, shared, and trusted.
+
+---
+
+**TraceLess Network (TRL)**  
+> Empowering the invisible economy.  
+
+🔗 [Website](https://tracelessnetwork.com)  
+🐦 [Twitter](https://twitter.com/TraceLessNetwork)  
+💬 [Telegram](https://t.me/TraceLessNetwork)
