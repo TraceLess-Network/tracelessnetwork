@@ -9,7 +9,7 @@ In a world where every transaction is watched, TraceLess brings **freedom, secur
 Built for scalability, interoperability, and trustless privacy — TRL is where the chain ends and **true anonymity begins**.
 
 ---
-
+ 
 ###  The Trusted Relay Layer (TRL)
 A new foundation for Web3 privacy — combining:
 - **Zero-Trace Transactions** – every transfer is unlinkable and invisible.  
